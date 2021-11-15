@@ -14,3 +14,8 @@ const kNumberTextStyle = TextStyle(
   fontSize: 50,
   fontWeight: FontWeight.w900,
 );
+
+const kLeargeButtonText = TextStyle(
+  fontSize: 20,
+  fontWeight: FontWeight.bold,
+);
